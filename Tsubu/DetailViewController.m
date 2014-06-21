@@ -32,7 +32,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    self.navigationItem.title = @"Detail View";
+    self.navigationItem.title = @"Detail";
     self.profileImageView.image = self.image;
     self.nameView.text = self.name;
     self.textView.text = self.text;
